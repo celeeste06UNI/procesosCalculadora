@@ -1,7 +1,7 @@
 languaje: java
 
 jdk: 
-  - oraclejdk9
+  - oraclejdk8
   
 script:
   - ant build
